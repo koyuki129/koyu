@@ -1,1 +1,2 @@
 # koyu
+I love lamp
